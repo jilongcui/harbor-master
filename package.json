@@ -1,6 +1,6 @@
 {
   "name": "harbor-master",
-  "version": "1.32.1",
+  "version": "1.40.1",
   "description": "Harbor Master is a Docker Remote API client written in Node.js",
   "keywords": [
     "docker",
@@ -19,13 +19,13 @@
     "test": "lab --timeout 1000 --assert code",
     "lint": "jshint ."
   },
-  "author": "Alex Rhea <alex.rhea@gmail.com>",
+  "author": "jilong cui <jilongcui@163.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/arhea/harbor-master.git"
+    "url": "https://github.com/jilongcui/harbor-master.git"
   },
   "bugs": {
-    "url": "http://github.com/arhea/harbor-master/issues"
+    "url": "http://github.com/jilongcui/harbor-master/issues"
   },
   "license": "Apache-2.0",
   "engines": {
